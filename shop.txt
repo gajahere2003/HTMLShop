@@ -2,7 +2,7 @@
 <html>
 <body>
 <pre><b>We provide variety of cosmetics</b></p>
-<h1 style="color:blue;"><b>COSMETICS</b></h1>
+<h1><b>COSMETICS</b></h1>
 <ul>
   <li>Eyeliner</li>
   <li>Mascara</li>
