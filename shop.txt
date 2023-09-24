@@ -1,0 +1,22 @@
+<!Doctype html>
+<html>
+<body>
+<pre><b>We provide variety of cosmetics</b></p>
+<h1 style="color:blue;"><b>COSMETICS</b></h1>
+<ul>
+  <li>Eyeliner</li>
+  <li>Mascara</li>
+  <li>Lipstick</li>
+  <li>Lipbalm</li>
+  <li>Eyebrow pencil</li>
+  <li>Bindhi</li>
+  <li>Powder</li>
+  <li>Face cream</li>
+  <li>Primer</li>
+  <li>Conceler</li>
+ </ul>
+ </body>
+ </html>
+  
+  
+  
